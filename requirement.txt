@@ -1,0 +1,7 @@
+langchain==0.2.0
+python-dotenv==0.21.0
+streamlit==1.35.0
+unstructured==0.14.3
+faiss-cpu==1.8.0
+HuggingFaceEndpoint==0.0.1
+HuggingFaceBgeEmbeddings==0.2.1
