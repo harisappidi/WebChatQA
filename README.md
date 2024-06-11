@@ -46,6 +46,15 @@ Follow these steps to set up the project:
 3. **Ask questions:**
    After processing the URL, you can enter questions in the input box to retrieve relevant answers based on the web content.
 
+## Sample Input and Output
+### Article: The Future of AI and 5G: Scientists Develop the First Universal, Programmable, and Multifunctional Photonic Chip
+
+![Article URL as an input](<Tech news article.png>)
+
+### Conversation:
+![Conversation 1](<Tech news article example output.png>)
+![Conversation 2](<Tech news article example output2.png>)
+
 ## Contributing
 
 We welcome contributions to improve WebChatQA! To contribute:
